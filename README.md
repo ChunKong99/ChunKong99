@@ -18,8 +18,7 @@
 - various optimization techniques in SQL
 
 
-### Coding Stats
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ChunKong99&theme=tokyonight&hide_border=false)<br/>
 
 
