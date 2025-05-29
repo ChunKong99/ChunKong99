@@ -5,21 +5,26 @@
 - 📫 to collaborate on SQL / Python projects or regarding an analyst position contact me at 0111 2992 771 or i_am_gary_lai@yahoo.com
 
 
+
+  
 ### I code with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  
 
 
 ### Latest Research Areas
 - advanced customizations on Matplotlib in Python
 - merge DataFrames using Pandas in Python
 - various optimization techniques in SQL
+  
 
 
 ### 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ChunKong99&theme=tokyonight&hide_border=false)<br/>
+  
 
 
 ### 🔝 Top Contributed Repo
