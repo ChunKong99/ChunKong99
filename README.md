@@ -7,7 +7,7 @@
 
   
 ### I code with
-![SQL](https://media.licdn.com/dms/image/sync/v2/D4D27AQEm96wB6HNx8w/articleshare-shrink_800/articleshare-shrink_800/0/1711224579888?e=2147483647&v=beta&t=ZyBDxIJAVZSp4mY-tAHvzmFK-6PlZoYbvNf6Si4aLgs)
+![SQL](https://hrcdn.net/fcore/assets/generated-badges/sql_level_3_stars_5_linkedin-eb9818e321.png)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
