@@ -10,17 +10,17 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  
+<br/>
 
 ### Latest Research Areas
 - advanced customizations on Matplotlib in Python
 - merge DataFrames using Pandas in Python
 - various optimization techniques in SQL
-  
+<br/>
 
 ### 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ChunKong99&theme=tokyonight&hide_border=false)<br/>
-  
+<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChunKong99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
