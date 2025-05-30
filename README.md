@@ -2,7 +2,7 @@
 
 - 🔭 provides data-driven decisions using SQL, Excel, ChatGPT, R, Python, Tableau, Power BI, and more...
 - 🌱 working on a Python project while applying for an analyst position
-- 📫 to collaborate on SQL / Python projects or regarding an analyst position contact me at 0111 2992 771 or i_am_gary_lai@yahoo.com
+- 📫 to collaborate on SQL / Python projects or regarding an analyst position contact me at 0111 2992 771 or i_am_gary_lai@yahoo.com  
 
 
   
