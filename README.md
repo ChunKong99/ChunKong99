@@ -18,8 +18,7 @@
 
 ### Latest Research Areas
 - advanced customizations on Matplotlib in Python
-- merge DataFrames using Pandas in Python
-- various optimization techniques in SQL
+- optimization techniques in SQL
 <br/>
 
 ### 📊 GitHub Stats:
