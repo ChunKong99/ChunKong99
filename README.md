@@ -17,8 +17,8 @@
 <br/>
 
 ### Latest Research Areas
-- advanced customizations on Matplotlib in Python
-- optimization techniques in SQL
+- customizations in Power BI reports
+- SQL performance optimizations
 <br/>
 
 ### 📊 GitHub Stats:
