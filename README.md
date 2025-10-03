@@ -1,7 +1,7 @@
 ### I am Lai Chun Kong, an Analyst 😄 
 
 - 🔭 provides data-driven decisions using SQL, Excel, Tableau, Power BI, Python, and more...
-- 🌱 working on a Python project while applying for an analyst position
+- 🌱 Learning Python and working on a Python project
 - 📫 to collaborate on SQL / Tableau / Power BI / Python projects or regarding an analyst position contact me at 0111 2992 771 or i_am_gary_lai@yahoo.com
 <br/>
   
