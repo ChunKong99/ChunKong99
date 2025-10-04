@@ -1,8 +1,8 @@
 ### I am Lai Chun Kong, an Analyst 😄 
 
-- 🔭 provides data-driven decisions using SQL, Excel, Tableau, Power BI, Python, and more...
+- 🔭 provides data-driven decisions using SQL, Excel, Power BI, Python, and more...
 - 🌱 Learning Python and working on a Python project
-- 📫 to collaborate on SQL / Tableau / Power BI / Python projects or regarding an analyst position contact me at 0111 2992 771 or i_am_gary_lai@yahoo.com
+- 📫 to collaborate on SQL / Power BI / Python projects or regarding an analyst position contact me at 0111 2992 771 or i_am_gary_lai@yahoo.com
 <br/>
   
 ### I code with
@@ -10,15 +10,13 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 <br/>
 
 ### Latest Research Areas
-- customizations in Power BI reports
-- SQL performance optimizations
+- Python for data cleaning
 <br/>
 
 ### 📊 GitHub Stats:
